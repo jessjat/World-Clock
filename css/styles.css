@@ -12,6 +12,12 @@ body{
     box-shadow:10px 10px 10px rgba(0,0,0,0.4);
     border-radius: 10px;
 }
+h1{
+    font-family: sans-serif;
+    font-size: 36px;
+    color: blue;
+    text-align: center;
+}
 h2{
     margin: 0 0 5px;
     font-size:28px;
@@ -47,13 +53,6 @@ select{
     font-size:18px ;
 }
 
-
-h1{
-    font-family: sans-serif;
-    font-size: 36px;
-    color: blue;
-    text-align: center;
-}
 footer{
     text-align: center;
     font-size: 18px;
